@@ -13,5 +13,5 @@ cnxn_str = ("Driver={SQL Server Native Client 11.0};"
             "PWD=Password123;")
 
 #initialize connection 
-cnxn = pyodbc.connect (cnxn_str)
+cnxn = pyodbc.connect(cnxn_str)
 
