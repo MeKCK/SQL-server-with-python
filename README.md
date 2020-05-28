@@ -7,3 +7,4 @@
     - MS SQL Server
     - MySQL
     - Oracle
+- pandas (pip install ...)
